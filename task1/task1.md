@@ -20,4 +20,4 @@ print(sum_two(1, 2))  # >>> 3
 print(sum_two(1, 2.4))  # >>> TypeError
 ```
 
-***[SOLUTION](task1/solution.py) ***
+***[SOLUTION](solution.py)***

@@ -33,4 +33,4 @@ if __name__ == '__main__':
        assert test_answer == test['answer'], f'Error on test case {i}, got {test_answer}, expected {test["answer"]}'
 ```
 
-***[SOLUTION](task3/solution.py) ***
+***[SOLUTION](solution.py)***
