@@ -11,4 +11,4 @@
 
 
 ***[SOLUTION](solution.py)*** <br>
-***[CSV](beasts.csv.py)***
+***[CSV](beasts.csv)***
